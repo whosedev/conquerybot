@@ -1,0 +1,1 @@
+# Ten plik jest pusty, służy do oznaczenia katalogu jako pakietu Pythona 
